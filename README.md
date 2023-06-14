@@ -6,7 +6,7 @@
 
 
 
-Integrantes: Demian Quezada, Fernando Prieto, Benjamin Parra, Ricardo Rios
+Integrantes: Demian Quezada, Fernando Prieto, Benjamin Parra, Ricardo Rios.
             
             
             
@@ -19,7 +19,7 @@ Integrantes: Demian Quezada, Fernando Prieto, Benjamin Parra, Ricardo Rios
             
             
             
-lanzamiento vertical hacia abajo
+Lanzamiento vertical hacia abajo.
 
 Muy buenas profesor y profesora, esperando que se encuentre bien, queremos hacer una presentación de los avances en nuestro código y en nuestra problemática. 
 Siendo nuestro tema: Lanzamiento Vertical Hacia Abajo, teniendo esta oportunidad para que explayemos lo realizado frente a los desafíos y soluciones a las cual nos hemos enfrentado, implementando desarrollos en este código y nuestra problemática. 
