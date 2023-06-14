@@ -1,4 +1,24 @@
-# lvA
+# Lanzamiento vertical hacia abajo
+
+
+
+
+
+
+
+Integrantes:Demian Quezada, Fernando Prieto, Benjamin Parra, Ricador Rios
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
 lanzamiento vertical hacia abajo
 
 Muy buenas profesor y profesora, esperando que se encuentre bien, queremos hacer una presentación de los avances en nuestro código y en nuestra problemática. 
