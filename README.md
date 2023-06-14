@@ -42,6 +42,6 @@ Las formulas que ocuparemos son 2, Tiempo de vuelo (t): t = (√(2h/g)) y Veloci
 
 Ellos quieren saber con claridad el tiempo en que llegará esta bomba al objetivo, a través de la velocidad en la cual caerá este objeto, para de esta formas saber cuanto debe de ser la velocidad mínima con la cual deben de alejarse del origen de la explosion y asi no ser afectados por esta misma
 
-Para desarrollar la simulación de la Operación, se utilizaron herramientas : de programación como Python para cálculos numéricos y gráficos, GitHub para subir el prollecto , los avanses de este y redes sosiales para compartir ideas como igual buscar dudas que ninguno de nosotros pudo superar. 
+Para desarrollar la simulación de la Operación, se utilizaron herramientas de programación: usamos el lenguaje de programacion Python, en su version 3.7, El interprete del lenguaje fue Visual Studio Code, También utilizamos GitHub Desktop para el trabajo en grupo y la libreria de Python math (biblioteca matematica, que permite realizar calculos más complejos). 
  
 Tras haber proporcionado una vista de la problemática, y cómo esta puede ser implementada de una manera aleatoria en un evento de x contexto en la que se puede explicar su estructura, su funcionalidad clave y sus probabilidades de éxito en la mayoria de los casos, ya tras haber presenciado esto, esperamos que se las haya brindado una visión clara y completa del potencial e inspiración para las posibilidades que se puedan obtener con lanzamiento vertical hacia abajo.
