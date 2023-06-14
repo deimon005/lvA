@@ -6,7 +6,7 @@
 
 
 
-Integrantes:Demian Quezada, Fernando Prieto, Benjamin Parra, Ricador Rios
+Integrantes: Demian Quezada, Fernando Prieto, Benjamin Parra, Ricador Rios
             
             
             
