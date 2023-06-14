@@ -4,6 +4,14 @@ lanzamiento vertical hacia abajo
 Muy buenas profesor y profesora, esperando que se encuentre bien, queremos hacer una presentación de los avances en nuestro código y en nuestra problemática. 
 Siendo nuestro tema: Lanzamiento Vertical Hacia Abajo, teniendo esta oportunidad para que explayemos lo realizado frente a los desafíos y soluciones a las cual nos hemos enfrentado, implementando desarrollos en este código y nuestra problemática. 
 Discutiremos los beneficios y dificultades que hemos tenido hasta este momento a través de nuestra organización y tiempo implicado. 
+historia breve
+El lanzamiento vertical hacia abajo es un concepto utilizado en física y describe el movimiento de objetos que se inician desde una altura específica.
+
+Cuando el objeto se arroja verticalmente hacia abajo, se expone solo a la gravedad de activación. En este tipo de lanzamiento, el único poder que actúa sobre el objeto es la gravedad. Esto se debe a que se considera que no tiene resistencia al aire u otra fuerza externa importante.
+
+Al comienzo del arranque, el objeto no tiene velocidad inicial en la dirección vertical. Si el objeto cae debido a la gravedad, la velocidad aumentará constantemente. La aceleración experimentada por el objeto es la aceleración debido a la gravedad, y es de aproximadamente 9.8 metros por cuadrado (9.8 m/s^2) en la tierra. Esta aceleración permanece constante a través del lanzamiento.
+
+La altura del objeto comienza afecta el tiempo que lleva llegar al suelo.
 
 Siendo nuestra problemática la siguiente:
 
