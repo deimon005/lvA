@@ -37,7 +37,8 @@ La simulación de este evento físico puede tener aplicaciones en el ámbito mil
 
 Siendo nuestra problemática la siguiente:
 
-Digamos que un equipo táctico estadounidense quiere acabar con la base de operaciones militares norcoreanas en mitad de una disputa, utilizando una bomba que será lanzada desde un avión de combate de forma vertical hacia abajo a una velocidad de 5m/s esto con un sistema de muelles y resortes desde una altura estimada de aproximadamente una 200m con dirección a la base de operaciones, la bomba tiene unas características propias, estás siendo que la bomba tiene un radio de explosion de 20 metros y una onda expansiva de 50 metros desde el origen de la explosion
+Digamos que un equipo táctico estadounidense quiere acabar con la base de operaciones militares norcoreanas en mitad de una disputa, utilizando una bomba que será lanzada desde un avión de combate de forma vertical hacia abajo a una velocidad de 5m/s esto con un sistema de muelles y resortes desde una altura estimada de aproximadamente una 200m con dirección a la base de operaciones, la bomba tiene unas características propias, estás siendo que la bomba tiene un radio de explosion de 20 metros y una onda expansiva de 50 metros desde el origen de la explosion.
+Las formulas que ocuparemos son 2, Tiempo de vuelo (t): t = (√(2h/g)) y Velocidad final (vf): vf = v₀ + gt.
 
 Ellos quieren saber con claridad el tiempo en que llegará esta bomba al objetivo, a través de la velocidad en la cual caerá este objeto, para de esta formas saber cuanto debe de ser la velocidad mínima con la cual deben de alejarse del origen de la explosion y asi no ser afectados por esta misma
 
