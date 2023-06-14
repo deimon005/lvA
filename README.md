@@ -13,6 +13,8 @@ Al comienzo del arranque, el objeto no tiene velocidad inicial en la dirección 
 
 La altura del objeto comienza afecta el tiempo que lleva llegar al suelo.
 
+La simulación de este evento físico puede tener aplicaciones en el ámbito militar, de defensa, destruccion, espacial ,etc. permitiendo evaluar la efectividad de diferentes estrategias y planificar operaciones de mejor rendimiento en x prollecto.
+
 Siendo nuestra problemática la siguiente:
 
 Digamos que un equipo táctico estadounidense quiere acabar con la base de operaciones militares norcoreanas en mitad de una disputa, utilizando una bomba que será lanzada desde un avión de combate de forma vertical hacia abajo a una velocidad de 5m/s esto con un sistema de muelles y resortes desde una altura estimada de aproximadamente una 200m con dirección a la base de operaciones, la bomba tiene unas características propias, estás siendo que la bomba tiene un radio de explosion de 20 metros y una onda expansiva de 50 metros desde el origen de la explosion
