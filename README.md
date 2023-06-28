@@ -36,26 +36,44 @@ Ellos quieren saber con claridad el tiempo en que llegará esta bomba al objetiv
 
 # Ejemplo matematico
 
-Supongamos que lanzas una pelota desde la azotea de un edificio de 30 metros de altura hacia abajo, con una velocidad inicial de 10 metros por segundo. Queremos calcular el tiempo que tardará la pelota en llegar al suelo.
+Supongamos que dejamos caer una bomba desde lo alto de un edificio de 50 metros de altura. Queremos calcular el tiempo que tardará en llegar al suelo y la velocidad con la que llegará.
 
-Para resolver este problema, podemos utilizar la ecuación de la posición en función del tiempo para el movimiento vertical:
+Establecer los datos:
 
-y = y0 + v0t + (1/2)at^2
+Altura inicial (h0): 50 metros
+Aceleración debido a la gravedad (g): 9.8 m/s² (tomamos el valor estándar)
+Velocidad inicial (v0): 0 m/s (la pelota se deja caer sin ninguna velocidad inicial)
+Calcular el tiempo de caída:
+Utilizaremos la siguiente fórmula de la cinemática:
+h = h0 + v0 * t + 0.5 * g * t²
 
-Donde:
+Dado que la altura final (h) es 0 (la bomba llega al suelo), podemos reescribir la fórmula como:
+0 = 50 + 0 * t + 0.5 * 9.8 * t²
 
-y es la posición final de la pelota (en este caso, la altura del suelo)
-y0 es la posición inicial de la pelota (la altura desde la cual fue lanzada)
-v0 es la velocidad inicial de la pelota
-t es el tiempo transcurrido
-a es la aceleración debido a la gravedad (-9.8 m/s^2 en el caso de la Tierra)
-En este caso, y0 = 30 m (altura inicial), v0 = -10 m/s (velocidad inicial hacia abajo), a = -9.8 m/s^2 (aceleración debido a la gravedad), y queremos encontrar el valor de t.
+Simplificando la ecuación, obtenemos:
+4.9 * t² = 50
 
-Como la pelota llega al suelo cuando y = 0, podemos establecer la ecuación:
+Resolviendo para t, dividimos ambos lados de la ecuación por 4.9:
+t² = 10
 
-0 = 30 + (-10)t + (1/2)(-9.8)t^2
+Tomando la raíz cuadrada de ambos lados, obtenemos:
+t ≈ √10 ≈ 3.16 segundos
 
-Resolviendo esta ecuación cuadrática, obtendremos el valor de t, que será el tiempo que tarda la pelota en llegar al suelo.
+Por lo tanto, el tiempo que tarda la bomba en caer es de aproximadamente 3.16 segundos.
+
+Calcular la velocidad final:
+Utilizaremos la siguiente fórmula de la cinemática:
+v = v0 + g * t
+
+Dado que v0 es 0 (la bomba se deja caer sin ninguna velocidad inicial), podemos reescribir la fórmula como:
+v = 0 + 9.8 * 3.16
+
+Calculando el resultado, obtenemos:
+v ≈ 30.88 m/s
+
+Por lo tanto, la velocidad con la que la bomba llega al suelo es aproximadamente 30.88 m/s.
+
+En resumen, la bomba tarda aproximadamente 3.16 segundos en caer y llega al suelo con una velocidad de aproximadamente 30.88 m/s en un lanzamiento vertical hacia abajo desde un edificio de 50 metros de altura.
 
 # Para Desarrollar la Simulación de la Operación, se Utilizaran las Siguientes Herramientas de Programación
 Usamos el lenguaje de programacion Python 3.11.4, el intérprete del lenguaje fue Pycharm - Visual studio code y también utilizamos GitHub Desktop para el trabajo en grupo.
