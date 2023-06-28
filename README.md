@@ -1,7 +1,7 @@
 # Proyecto INFO 1120 - FIS 1102
-Alumnos: Demian Quezada, Fernando Prieto, Benjamin Parra, Ricardo Rios.
-
-Carrera: Ing. Civil Informática.
+Participantes del Prollecto : Demian Quezada, Fernando Prieto, Benjamin Parra, Ricardo Rios.     #
+Carrera perteneciente: Ing. Civil Informática.                                                     #
+Materias Involucradas : Fisica , Programacion I (Primer Semestre)                                    #
 
 # Descripción 
 Muy buenas profesor y profesora, esperando que se encuentre bien, queremos hacer una presentación de los avances en nuestro código y en nuestra problemática. 
