@@ -46,4 +46,6 @@ Las Librerias que Utilizamos son:
 Los programas y librerias que ocuparemos estaran dentro del siguiente link --> [programas](https://drive.google.com/drive/folders/1mwAAq_y6OmhLmySDE-CxzDlTXKNUx4OL?usp=sharing)
 
 # Guía de Instalación de los Programas
-Adjuntamos video en el siguiente link --> "ingresar link"
+Adjuntamos video en el siguiente link --> [Video Tutorial](https://youtu.be/GjodcyVgZAs)
+# Video Explicación Fenómeno Físico
+Adjuntamos video en el siguiente link --> [Video Explicación](https://youtu.be/LoLtZrn8M7k)
