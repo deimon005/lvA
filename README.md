@@ -80,9 +80,11 @@ Usamos el lenguaje de programacion Python 3.11.4, el intérprete del lenguaje fu
 
 Las Librerias que Utilizamos son: 
 
-+ Math (biblioteca matematica que permite realizar calculos más complejos). 
++PyGames : biblioteca de Python que se utiliza para desarrollar videojuegos y aplicaciones multimedia interactivas. Proporciona herramientas y funciones que permiten a los desarrolladores crear gráficos, animaciones, efectos de sonido y manejar la entrada del usuario.
 
-+ Tkinter (Libreria usada para crear interfaces).
++ Math : blioteca incorporada en muchos lenguajes de programación que proporciona funciones y operaciones matemáticas avanzadas. Esta biblioteca permite realizar cálculos matemáticos más complejos que los operadores básicos que están disponibles de forma predeterminada. 
+
++ Tkinter  : biblioteca de Python utilizada para crear interfaces gráficas de usuario (GUI, por sus siglas en inglés). Proporciona un conjunto de herramientas y widgets que permiten a los desarrolladores crear ventanas, botones, cajas de texto y otros elementos interactivos en sus aplicaciones.
 
 Los programas y librerias que ocuparemos estaran dentro del siguiente link --> [programas](https://drive.google.com/drive/folders/1mwAAq_y6OmhLmySDE-CxzDlTXKNUx4OL?usp=sharing)
 
