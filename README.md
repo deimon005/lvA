@@ -34,6 +34,29 @@ Las formulas que ocuparemos son 2:
 
 Ellos quieren saber con claridad el tiempo en que llegará esta bomba al objetivo, a través de la velocidad en la cual caerá este objeto, para de esta formas saber cuanto debe de ser la velocidad mínima con la cual deben de alejarse del origen de la explosion y asi no ser afectados por esta misma
 
+# Ejemplo matematico
+
+Supongamos que lanzas una pelota desde la azotea de un edificio de 30 metros de altura hacia abajo, con una velocidad inicial de 10 metros por segundo. Queremos calcular el tiempo que tardará la pelota en llegar al suelo.
+
+Para resolver este problema, podemos utilizar la ecuación de la posición en función del tiempo para el movimiento vertical:
+
+y = y0 + v0t + (1/2)at^2
+
+Donde:
+
+y es la posición final de la pelota (en este caso, la altura del suelo)
+y0 es la posición inicial de la pelota (la altura desde la cual fue lanzada)
+v0 es la velocidad inicial de la pelota
+t es el tiempo transcurrido
+a es la aceleración debido a la gravedad (-9.8 m/s^2 en el caso de la Tierra)
+En este caso, y0 = 30 m (altura inicial), v0 = -10 m/s (velocidad inicial hacia abajo), a = -9.8 m/s^2 (aceleración debido a la gravedad), y queremos encontrar el valor de t.
+
+Como la pelota llega al suelo cuando y = 0, podemos establecer la ecuación:
+
+0 = 30 + (-10)t + (1/2)(-9.8)t^2
+
+Resolviendo esta ecuación cuadrática, obtendremos el valor de t, que será el tiempo que tarda la pelota en llegar al suelo.
+
 # Para Desarrollar la Simulación de la Operación, se Utilizaran las Siguientes Herramientas de Programación
 Usamos el lenguaje de programacion Python 3.11.4, el intérprete del lenguaje fue Pycharm - Visual studio code y también utilizamos GitHub Desktop para el trabajo en grupo.
 
