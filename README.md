@@ -80,7 +80,7 @@ Usamos el lenguaje de programacion Python 3.11.4, el intérprete del lenguaje fu
 
 Las Librerias que Utilizamos son: 
 
-+PyGames : biblioteca de Python que se utiliza para desarrollar videojuegos y aplicaciones multimedia interactivas. Proporciona herramientas y funciones que permiten a los desarrolladores crear gráficos, animaciones, efectos de sonido y manejar la entrada del usuario.
++ PyGames : biblioteca de Python que se utiliza para desarrollar videojuegos y aplicaciones multimedia interactivas. Proporciona herramientas y funciones que permiten a los desarrolladores crear gráficos, animaciones, efectos de sonido y manejar la entrada del usuario.
 
 + Math : blioteca incorporada en muchos lenguajes de programación que proporciona funciones y operaciones matemáticas avanzadas. Esta biblioteca permite realizar cálculos matemáticos más complejos que los operadores básicos que están disponibles de forma predeterminada. 
 
