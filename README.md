@@ -91,4 +91,4 @@ Los programas y librerias que ocuparemos estaran dentro del siguiente link --> [
 # Guía de Instalación de los Programas
 Adjuntamos video en el siguiente link --> [Video Tutorial](https://youtu.be/GjodcyVgZAs)
 # Video Explicación Fenómeno Físico
-Adjuntamos video en el siguiente link --> [Video Explicación](https://youtu.be/LoLtZrn8M7k)
+Adjuntamos video en el siguiente link --> [Video Explicación](https://youtu.be/IEs_uttm9g8)
