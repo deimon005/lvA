@@ -16,7 +16,7 @@ Lanzamiento vertical hacia abajo.
 # Breve Historia
 El lanzamiento vertical hacia abajo es un concepto utilizado en física y describe el movimiento de objetos que se inician desde una altura específica.
 
-Cuando el objeto se arroja verticalmente hacia abajo, se expone solo a la gravedad de activación. En este tipo de lanzamiento,una vez realizado el lanzamiento el único poder que actúa sobre el objeto es la gravedad. Esto se debe a que se considera que no tiene resistencia al aire u otra fuerza externa importante.
+Cuando el objeto se arroja verticalmente hacia abajo, se expone solo a la gravedad de activación. En este tipo de lanzamiento, una vez realizado el único poder que actúa sobre el objeto es la gravedad. Esto se debe a que se considera que no tiene resistencia al aire u otra fuerza externa importante.
 
 Al comienzo del arranque, el objeto 'tiene' velocidad inicial en la dirección vertical. Si el objeto cae debido a la gravedad, la velocidad aumentará constantemente. La aceleración experimentada por el objeto es la aceleración debido a la gravedad, y es de aproximadamente 9.8 metros partido por segundos al cuadrado (9.8 m/s^2) en la tierra. Esta aceleración permanece constante a través del lanzamiento.
 
@@ -82,9 +82,9 @@ Las Librerias que Utilizamos son:
 
 + PyGames : biblioteca de Python que se utiliza para desarrollar videojuegos y aplicaciones multimedia interactivas. Proporciona herramientas y funciones que permiten a los desarrolladores crear gráficos, animaciones, efectos de sonido y manejar la entrada del usuario.
 
-+ Math : blioteca incorporada en muchos lenguajes de programación que proporciona funciones y operaciones matemáticas avanzadas. Esta biblioteca permite realizar cálculos matemáticos más complejos que los operadores básicos que están disponibles de forma predeterminada. 
++ Math : biblioteca incorporada en muchos lenguajes de programación que proporciona funciones y operaciones matemáticas avanzadas. Esta biblioteca permite realizar cálculos matemáticos más complejos que los operadores básicos que están disponibles de forma predeterminada. 
 
-+ Tkinter  : biblioteca de Python utilizada para crear interfaces gráficas de usuario (GUI, por sus siglas en inglés). Proporciona un conjunto de herramientas y widgets que permiten a los desarrolladores crear ventanas, botones, cajas de texto y otros elementos interactivos en sus aplicaciones.
++ Tkinter : biblioteca de Python utilizada para crear interfaces gráficas de usuario (GUI, por sus siglas en inglés). Proporciona un conjunto de herramientas y widgets que permiten a los desarrolladores crear ventanas, botones, cajas de texto y otros elementos interactivos en sus aplicaciones.
 
 Los programas y librerias que ocuparemos estaran dentro del siguiente link --> [programas](https://drive.google.com/drive/folders/1mwAAq_y6OmhLmySDE-CxzDlTXKNUx4OL?usp=sharing)
 
