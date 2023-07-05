@@ -34,7 +34,7 @@ Las formulas que ocuparemos son 2:
 
 Ellos quieren saber con claridad el tiempo en que llegará esta bomba al objetivo, a través de la velocidad en la cual caerá este objeto, para de esta formas saber cuanto debe de ser la velocidad mínima con la cual deben de alejarse del origen de la explosion y asi no ser afectados por esta misma
 
-# Ejemplo matematico
+# Ejemplo matemático
 
 Supongamos que dejamos caer una bomba desde lo alto de un edificio de 50 metros de altura. Queremos calcular el tiempo que tardará en llegar al suelo y la velocidad con la que llegará.
 
