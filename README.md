@@ -16,9 +16,9 @@ Lanzamiento vertical hacia abajo.
 # Breve Historia
 El lanzamiento vertical hacia abajo es un concepto utilizado en física y describe el movimiento de objetos que se inician desde una altura específica.
 
-Cuando el objeto se arroja verticalmente hacia abajo, se expone solo a la gravedad de activación. En este tipo de lanzamiento, el único poder que actúa sobre el objeto es la gravedad. Esto se debe a que se considera que no tiene resistencia al aire u otra fuerza externa importante.
+Cuando el objeto se arroja verticalmente hacia abajo, se expone solo a la gravedad de activación. En este tipo de lanzamiento,una vez realizado el lanzamiento el único poder que actúa sobre el objeto es la gravedad. Esto se debe a que se considera que no tiene resistencia al aire u otra fuerza externa importante.
 
-Al comienzo del arranque, el objeto no tiene velocidad inicial en la dirección vertical. Si el objeto cae debido a la gravedad, la velocidad aumentará constantemente. La aceleración experimentada por el objeto es la aceleración debido a la gravedad, y es de aproximadamente 9.8 metros por cuadrado (9.8 m/s^2) en la tierra. Esta aceleración permanece constante a través del lanzamiento.
+Al comienzo del arranque, el objeto 'tiene' velocidad inicial en la dirección vertical. Si el objeto cae debido a la gravedad, la velocidad aumentará constantemente. La aceleración experimentada por el objeto es la aceleración debido a la gravedad, y es de aproximadamente 9.8 metros partido por segundos al cuadrado (9.8 m/s^2) en la tierra. Esta aceleración permanece constante a través del lanzamiento.
 
 
 # Aplicaciones
@@ -42,13 +42,13 @@ Establecer los datos:
 
 Altura inicial (h0): 50 metros
 Aceleración debido a la gravedad (g): 9.8 m/s² (tomamos el valor estándar)
-Velocidad inicial (v0): 0 m/s (la pelota se deja caer sin ninguna velocidad inicial)
+Velocidad inicial (v0): 2 m/s (la bomba se lanzara con una velocidad de 2m/s)
 Calcular el tiempo de caída:
 Utilizaremos la siguiente fórmula de la cinemática:
-h = h0 + v0 * t + 0.5 * g * t²
+h = h0 - v0 * t - 0.5 * g * t²
 
 Dado que la altura final (h) es 0 (la bomba llega al suelo), podemos reescribir la fórmula como:
-0 = 50 + 0 * t + 0.5 * 9.8 * t²
+0 = 50 - 2 * t - 0.5 * 9.8 * t²
 
 Simplificando la ecuación, obtenemos:
 4.9 * t² = 50
@@ -65,15 +65,15 @@ Calcular la velocidad final:
 Utilizaremos la siguiente fórmula de la cinemática:
 v = v0 + g * t
 
-Dado que v0 es 0 (la bomba se deja caer sin ninguna velocidad inicial), podemos reescribir la fórmula como:
-v = 0 + 9.8 * 3.16
+Dado que v0 es 2 (la bomba se lanza con una velocidad de 2m/s), podemos reescribir la fórmula como:
+v = 2 + 9.8 * 3.16
 
 Calculando el resultado, obtenemos:
-v ≈ 30.88 m/s
+v ≈ 32.96 m/s
 
-Por lo tanto, la velocidad con la que la bomba llega al suelo es aproximadamente 30.88 m/s.
+Por lo tanto, la velocidad con la que la bomba llega al suelo es aproximadamente 32.96 m/s.
 
-En resumen, la bomba tarda aproximadamente 3.16 segundos en caer y llega al suelo con una velocidad de aproximadamente 30.88 m/s en un lanzamiento vertical hacia abajo desde un edificio de 50 metros de altura.
+En resumen, la bomba tarda aproximadamente 3.16 segundos en caer y llega al suelo con una velocidad de aproximadamente 32.96 m/s en un lanzamiento vertical hacia abajo desde un edificio de 50 metros de altura.
 
 # Para Desarrollar la Simulación de la Operación, se Utilizaran las Siguientes Herramientas de Programación
 Usamos el lenguaje de programacion Python 3.11.4, el intérprete del lenguaje fue Pycharm - Visual studio code y también utilizamos GitHub Desktop para el trabajo en grupo.
